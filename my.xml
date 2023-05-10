@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<humans>
+  <human>
+    <name>Natasha</name>
+    <surname>Zoloyareva</surname>
+    <age>19</age>
+    <address>
+      <city>Dnipr</city>
+      <house>1a</house>
+      <street>Temoshenko</street>
+    </address>
+  </human>
+  <human>
+    <name>Any</name>
+    <surname>Tsivka</surname>
+    <age>16</age>
+    <address>
+      <city>Mucolaiv</city>
+      <house>55</house>
+      <street>Mury</street>
+    </address>
+  </human>
+  <human>
+    <name>Masha</name>
+    <surname>Zoloyareva</surname>
+    <age>30</age>
+    <address>
+      <city>Harkiv</city>
+      <house>35</house>
+      <street>Zarichn</street>
+    </address>
+  </human>
+</humans>
